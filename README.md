@@ -1,5 +1,5 @@
 <h2> Hi, I'm Tom Luong! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="230">
 <p><em>Lead Software Enginner at <a href="https://www.dealertrackcanada.com/">Cox Automotive Canada</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
