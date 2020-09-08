@@ -1,25 +1,26 @@
-<h2> Hi, I'm Tom Luong! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Lead Software Enginner at <a href="https://www.dealertrackcanada.com/">Cox Automotive Canada</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2> Hey there! I'm Tom.</h2>
 
-[![Twitter: tomluongpro](https://img.shields.io/twitter/follow/tomluongpro?style=social)](https://twitter.com/tomluongpro)
-[![Linkedin: tomqluong](https://img.shields.io/badge/-tomqluong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomqluong/)](https://www.linkedin.com/in/tomqluong/)
-[![GitHub tomluong](https://img.shields.io/github/followers/tomluong?label=follow&style=social)](https://github.com/tomluong)
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 🤔 &nbsp; Seasoned .NET developer with leadership experience and recent working experience with React, Angular and select AWS products
+- 💼 &nbsp; Extensive software development experience ranging from web applications, Windows applications, Windows services, single page applications and serverless applications
+- 🌱 &nbsp; Working experience with NServiceBus, RabbitMQ, NoSQL databases and CICD tools such as Docker, Git, TeamCity, Octopus and Jenkins
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h3>🛠 Tech Stack</h3>
 
-```javascript
-const tomluong = {
-  pronouns: "he" | "him",
-  code: [C#, Javascript, Typescript, HTML, CSS],
-  tools: [.NET, Agular, React, Docker, Redux, Node],
-  architecture: ["microservices", "event-driven", "design system pattern"]
-}
-```
+- 💻 &nbsp; C# |  SQL
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Angular
+- 🛢 &nbsp; MSSQL | Oracle | MongoDB
+- 🔧 &nbsp; Git | Markdown | Visual Studio
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br/>
 
----
+<h3> 🤝🏻 Connect with Me </h3>
 
-⭐️ From [@tomluong](https://github.com/tomluong) ⭐️
+<p align="center">
+<a href="https://tomluong.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-tomluong.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/tomqluong/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tom%20Luong-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:tomluong@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-tomluong@live.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [tomluong](https://github.com/tomluong)
