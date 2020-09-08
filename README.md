@@ -2,16 +2,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Seasoned .NET developer with leadership experience and recent working experience with React, Angular and select AWS products
-- 💼 &nbsp; Extensive software development experience ranging from web applications, Windows applications, Windows services, single page applications and serverless applications
-- 🌱 &nbsp; Working experience with NServiceBus, RabbitMQ, NoSQL databases and CICD tools such as Docker, Git, TeamCity, Octopus and Jenkins
+- 🤔 &nbsp; Seasoned .NET developer with leadership experience
+- 💼 &nbsp; Extensive software development experience ranging from web to Windows to cloud applications
+- 🌱 &nbsp; Working experience with messaging architecture and microservices
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C# |  SQL
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Angular
 - 🛢 &nbsp; MSSQL | Oracle | MongoDB
-- 🔧 &nbsp; Git | Markdown | Visual Studio
+- 🔧 &nbsp; AWS | Git | Markdown | Visual Studio | NServiceBus | RabbitMQ
 
 <br/>
 
